@@ -1,0 +1,4 @@
+C-x C-f - open file
+C-x k bufname <RET> - kill buffer
+C-x C-s - save
+C-g - cancel partially typed or accidental command 
