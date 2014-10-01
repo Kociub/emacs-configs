@@ -1,5 +1,16 @@
+Basics:
+
 C-x C-f - open file
 C-x k bufname <RET> - kill buffer
 C-x C-s - save
 C-g - cancel partially typed or accidental command 
 C-c r - rename file
+
+Macros:
+
+
+C-x ( - start define a keyboard macro - basically records what you do, so do exactly what you want your macro to do. 
+C-x ) - end the definition of the keyboard macro 
+C-x e - executes the keyboard macro.
+C-u 15 C-x e - execute macro 15 times
+C-u 0 C-x e - execute macro indefinitely
